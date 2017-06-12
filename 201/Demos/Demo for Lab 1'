@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>
+        Class Demo for Lab 1
+      </title>
+    </head>
+    <body>
+    </body>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <script> //Javascript file (often used to show a demo)//
+        var userName = prompt ('What is your name?');
+        alert ('Very nice to meet you' +' I always need new friends.')
+          console.log ('')
+      </script>
+  <.html>
